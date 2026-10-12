@@ -1,0 +1,9 @@
+true,predicted,count
+Judicial Power,Civil Rights,16
+Economic Activity,Judicial Power,14
+Judicial Power,Economic Activity,14
+Civil Rights,Criminal Procedure,12
+Due Process,Criminal Procedure,10
+Criminal Procedure,Judicial Power,9
+Economic Activity,Federal Taxation,8
+Economic Activity,Federalism,8

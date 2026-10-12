@@ -1,0 +1,19 @@
+                      precision    recall  f1-score   support
+
+  Criminal Procedure       0.87      0.91      0.89       288
+        Civil Rights       0.83      0.86      0.84       202
+     First Amendment       0.90      0.80      0.84        99
+         Due Process       0.64      0.58      0.61        50
+             Privacy       0.83      0.62      0.71        16
+           Attorneys       1.00      0.71      0.83        14
+              Unions       0.77      0.98      0.86        52
+   Economic Activity       0.82      0.80      0.81       250
+      Judicial Power       0.72      0.69      0.70       167
+          Federalism       0.80      0.71      0.75        55
+Interstate Relations       0.78      0.88      0.82         8
+    Federal Taxation       0.80      0.98      0.88        46
+       Miscellaneous       0.50      0.33      0.40         3
+
+            accuracy                           0.82      1250
+           macro avg       0.79      0.76      0.77      1250
+        weighted avg       0.82      0.82      0.82      1250

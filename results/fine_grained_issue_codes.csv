@@ -1,0 +1,2 @@
+n_docs,n_classes,majority_acc,accuracy,macro_f1,top5_accuracy
+7434,141,0.0323,0.7068,0.6556,0.9314

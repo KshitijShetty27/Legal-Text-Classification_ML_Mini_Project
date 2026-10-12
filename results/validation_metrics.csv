@@ -1,0 +1,12 @@
+model,accuracy,macro_f1,weighted_f1,fit_sec
+LinearSVC C=0.5,0.7958,0.7322,0.7918,2.7
+LinearSVC C=1,0.7958,0.7259,0.7917,3.1
+LogReg C=10,0.7846,0.7107,0.7818,28.9
+LogReg C=1,0.7646,0.6881,0.7636,13.6
+LinearSVC C=0.1,0.771,0.6834,0.7667,2.5
+ComplementNB alpha=0.1,0.7222,0.5725,0.6966,0.1
+ComplementNB alpha=0.5,0.707,0.5218,0.6748,0.1
+Majority baseline,0.2306,0.0288,0.0864,0.0
+LDA(25 topics) + LogReg,0.554,0.4457,0.5773,
+Doc2Vec + LogReg C=1,0.6757,0.6059,0.683,
+Doc2Vec + LogReg C=10,0.6717,0.6015,0.6785,
